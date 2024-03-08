@@ -1,4 +1,4 @@
-module github.com/portapps/ungoogled-chromium-portable
+module github.com/nedogimov-m/ungoogled-chromium-portable
 
 go 1.21
 
